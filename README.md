@@ -10,7 +10,11 @@ JavaScript
 //Features:
 
 Owl Carousel
+
 Aios Library Animations
+
 Responsive Design
+
 Social Media Integration
+
 User-Friendly Contact Form
